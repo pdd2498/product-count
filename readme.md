@@ -1,5 +1,3 @@
-Certainly! A README file typically provides information about your project, how to set it up, and any other relevant details. Here's a basic template for a README file for your HTML project:
-
 # Shopping Cart Web App
 
 ## Description
@@ -16,3 +14,4 @@ This is a simple web application that allows users to browse and add products to
 - `script.js`: JavaScript file for handling dynamic functionality.
 
 ## Image
+![Screenshot 2024-01-14 132803](https://github.com/pdd2498/product-count/assets/136301852/e6b1b66b-f58c-4a48-bc85-fa488626a058)
